@@ -80,3 +80,8 @@
     background-color: rgb(3,169, 244);
     left: 15%;
 }
+
+.portfolio-max-width {
+    max-width: 900px;
+    margin: auto;
+}
