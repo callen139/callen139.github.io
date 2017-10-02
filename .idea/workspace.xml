@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ce1b98-3748-4c3c-8176-9197ad9254c3" name="Default" comment="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Website_Index_HTML_Code_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/main.css" afterPath="$PROJECT_DIR$/style/main.css" />
     </list>
     <ignored path="callen139.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="65" column="97" lean-forward="true" selection-start-line="65" selection-start-column="97" selection-end-line="65" selection-end-column="97" />
+            <state relative-caret-position="337">
+              <caret line="61" column="66" lean-forward="false" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -262,7 +259,7 @@
       <workItem from="1504139262725" duration="13969000" />
       <workItem from="1504212532576" duration="4674000" />
       <workItem from="1506567607306" duration="1600000" />
-      <workItem from="1506916274430" duration="1113000" />
+      <workItem from="1506916274430" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google.">
       <created>1479154560127</created>
@@ -275,7 +272,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29156000" />
+    <option name="totallyTimeSpent" value="29445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="65" column="97" lean-forward="true" selection-start-line="65" selection-start-column="97" selection-end-line="65" selection-end-column="97" />
+        <state relative-caret-position="337">
+          <caret line="61" column="66" lean-forward="false" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="66" />
           <folding />
         </state>
       </provider>
