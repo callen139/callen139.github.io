@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ce1b98-3748-4c3c-8176-9197ad9254c3" name="Default" comment="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google.">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/callen139.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/callen139.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <ignored path="callen139.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +36,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+            <state relative-caret-position="373">
+              <caret line="59" column="172" selection-start-line="59" selection-start-column="172" selection-end-line="59" selection-end-column="172" />
             </state>
           </provider>
         </entry>
@@ -101,15 +98,6 @@
             <path>
               <item name="callen139.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="callen139.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="callen139.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="callen139.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="material" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +170,7 @@
       <workItem from="1506916274430" duration="1402000" />
       <workItem from="1522894797592" duration="598000" />
       <workItem from="1522978618415" duration="85000" />
-      <workItem from="1528171207207" duration="1043000" />
+      <workItem from="1528171207207" duration="1389000" />
     </task>
     <task id="LOCAL-00001" summary="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google.">
       <created>1479154560127</created>
@@ -195,7 +183,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31171000" />
+    <option name="totallyTimeSpent" value="31517000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,10 +198,11 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735383" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20735383" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32832617" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872504" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,7 +216,6 @@
       <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        <state relative-caret-position="373">
+          <caret line="59" column="172" selection-start-line="59" selection-start-column="172" selection-end-line="59" selection-end-column="172" />
         </state>
       </provider>
     </entry>
