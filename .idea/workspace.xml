@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41ce1b98-3748-4c3c-8176-9197ad9254c3" name="Default" comment="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google.">
-      <change afterPath="$PROJECT_DIR$/blog-construction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Connors-Portfolio-Blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Connors-Portfolio-Blog/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Connors-Portfolio-Blog/_posts/2018-06-05-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/Connors-Portfolio-Blog/_posts/2018-06-05-welcome-to-jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="41ce1b98-3748-4c3c-8176-9197ad9254c3" name="Default" comment="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google." />
     <ignored path="callen139.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
-              <caret line="65" column="97" lean-forward="true" selection-start-line="65" selection-start-column="97" selection-end-line="65" selection-end-column="97" />
+              <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -210,7 +202,7 @@
       <workItem from="1522894797592" duration="598000" />
       <workItem from="1522978618415" duration="85000" />
       <workItem from="1528171207207" duration="2424000" />
-      <workItem from="1528238126733" duration="6158000" />
+      <workItem from="1528238126733" duration="6388000" />
     </task>
     <task id="LOCAL-00001" summary="Added stylesheet and style folder, added lines to index to import new stylesheets inclduing MDL library from Google.">
       <created>1479154560127</created>
@@ -223,7 +215,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38710000" />
+    <option name="totallyTimeSpent" value="38940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -755,7 +747,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="65" column="97" lean-forward="true" selection-start-line="65" selection-start-column="97" selection-end-line="65" selection-end-column="97" />
+          <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
         </state>
       </provider>
     </entry>
